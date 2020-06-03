@@ -1,0 +1,33 @@
+
+#menu{
+	text-align: center;
+}
+
+.box{
+	background-color: grey;
+	width:30%;
+	border:1px solid;
+    margin:10px;
+    padding:5px;
+
+}
+#dish1{
+	font-weight: bold;
+    background-color: orange;
+    border:1px solid;
+    padding-left: 2px;
+}
+#dish2{
+	font-weight: bold;
+	background-color:yellow;
+	border:1px solid;
+	padding-left: 2px;
+	
+}
+#dish3{
+	font-weight: bold;
+	background-color: green;
+	border:1px solid;
+	padding-left: 2px;
+	
+}
